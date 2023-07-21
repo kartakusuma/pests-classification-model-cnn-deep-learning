@@ -1,4 +1,4 @@
-# Pests classification model using pre-trained model MobileNetV2
+# Pests classification model
 
 This model is used to classify rice pests in [Phadi](https://github.com/garasikuzu/phadi-app) application
 
